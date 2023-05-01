@@ -1,0 +1,7 @@
+nicks
+aqui
+separados
+por
+quebra
+de
+linha
